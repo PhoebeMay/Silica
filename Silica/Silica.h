@@ -13,6 +13,7 @@
 #import "CGSConnection.h"
 #import "CGSDisplays.h"
 #import "CGSSpace.h"
+#import "CGSWindow.h"
 #import "NSRunningApplication+Silica.h"
 #import "NSScreen+Silica.h"
 #import "SIAccessibilityElement.h"
